@@ -2,4 +2,4 @@
 	#gross:역겨운
 	#root: 뿌리
 	#grossroot: 역겨운뿌리
-	#ㄹ호
+	#ㄹ호형
